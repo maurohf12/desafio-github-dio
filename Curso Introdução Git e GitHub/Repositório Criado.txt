@@ -1,1 +1,1 @@
-Criei o Repostitório "Livro de Receitas" como parte do aprendizado inicial do Git e do GitHub
+Criei o Repostitorio "Livro de Receitas" como parte do aprendizado inicial do Git e do GitHub
